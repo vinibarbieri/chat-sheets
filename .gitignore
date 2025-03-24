@@ -1,0 +1,8 @@
+node_modules/
+.env
+/.venv
+posts_redes_sociais.xlsx
+openai.txt
+/data
+post-automation-451914-0d0af48fd5cb.json
+chat/config/google_sheets_credentials.json
